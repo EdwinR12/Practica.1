@@ -1,0 +1,50 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	background-size: cover;
+}
+h1{
+font-size: 20;
+color: Black;
+}
+.logo-img{
+    margin-top: -50px;
+	margin-bottom: 35px;
+}
+.logo-img img{
+	height: 200px;
+	width: 200px;
+	border-radius: 7px;
+	box-shadow: 0px 0px 2px rgb(255, 255, 0);
+}
+.main-section{
+	margin: 0 auto;
+	margin-top: 130px;
+	padding: 0;
+
+}
+.modal-content{
+	background-color: #00ffff;
+	opacity: .95;
+	padding: 0 18px;
+	box-shadow: 0px 0px 3px #0080c0;
+}
+.user-img{
+	margin-top: -50px;
+	margin-bottom: 35px;
+
+}
+.user-img img{
+	height: 100px;
+	width: 100px;
+	border-radius: 5px;
+	box-shadow: 0px 0px 2px #400080;
+}
+.form-group{
+	margin-bottom: 25px;
+}
+.form-group input{
+	height: 42px;
+	border-radius: 5px;
+	border: 0;
+	font-size: 18px;
+}
